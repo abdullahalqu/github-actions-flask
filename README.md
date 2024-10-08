@@ -30,7 +30,7 @@
    flask run
    ```
 
-6. **Access the App:**
+6. **Access the App:**`
    
    ```
    http://localhost:5000
